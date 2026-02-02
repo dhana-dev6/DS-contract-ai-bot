@@ -1,17 +1,28 @@
-# ContractAI - GenAI Legal Assistant ⚖️
+# ⚖️ ContractAI - GenAI Legal Assistant
 
-**ContractAI** is a sophisticated, GenAI-powered dashboard designed to help SMEs and legal professionals analyze contracts, identify risks, and ensure compliance with Indian Law. Built for the **Data Science Hackathon**.
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Groq](https://img.shields.io/badge/AI-Groq_Llama3-orange?style=for-the-badge)](https://groq.com/)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
-![Dashboard Screenshot](https://via.placeholder.com/800x400?text=ContractAI+Dashboard+Preview)
-*(Replace this with an actual screenshot of your app)*
+**A sophisticated, GenAI-powered Data Science dashboard for SME contract analysis.**  
+*Built for the Data Science Hackathon 2024.*
+
+---
+
+![Dashboard Preview](https://via.placeholder.com/1200x600?text=ContractAI+Dashboard+Screenshot)
+*(Upload your `uploaded_media_1770010393328.png` to the repo as `dashboard.png` and update this link!)*
 
 ## 🚀 Overview
 
-Understanding complex legal agreements can be difficult and expensive. **ContractAI** solves this by using advanced NLP and Large Language Models (LLMs) to:
-1.  **Parse** unstructured contract documents (PDF/DOCX).
-2.  **Extract** key entities (Parties, Dates, Obligations).
-3.  **Quantify Risk** using a weighted scoring algorithm.
-4.  **Compare Clauses** against fair market standards.
+**ContractAI** transforms complex legal documents into clear, actionable insights. By leveraging **Large Language Models (LLMs)** and **Natural Language Processing (NLP)**, it bridges the gap between unstructured legal text and quantitative risk assessment.
+
+### Why Data Science? 🧬
+This project isn't just a wrapper. It implements a full **NLP Pipeline**:
+*   **ETL**: Ingests PDF/DOCX.
+*   **NER**: Extracts Parties & Dates using Spacy.
+*   **Vector Logic**: Calculates weighted Risk Scores.
+*   **Semantic Search**: Compares clauses against a Golden Source.
 
 ## ✨ Key Features
 
