@@ -1,0 +1,8 @@
+streamlit
+spacy
+pdfplumber
+python-docx
+groq
+pandas
+python-dotenv
+fpdf
