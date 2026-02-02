@@ -10,8 +10,8 @@
 
 ---
 
-![Dashboard Preview](https://via.placeholder.com/1200x600?text=ContractAI+Dashboard+Screenshot)
-*(Upload your `uploaded_media_1770010393328.png` to the repo as `dashboard.png` and update this link!)*
+![Dashboard Preview]<img width="1890" height="868" alt="image" src="https://github.com/user-attachments/assets/00d59016-f5fd-4463-b7c1-090e25cb5fa0" />
+
 
 ## 🚀 Overview
 
