@@ -10,7 +10,8 @@
 
 ---
 
-![Dashboard Preview]<img width="1890" height="868" alt="image" src="https://github.com/user-attachments/assets/00d59016-f5fd-4463-b7c1-090e25cb5fa0" />
+## Dashboard Preview
+<img width="1890" height="868" alt="image" src="https://github.com/user-attachments/assets/00d59016-f5fd-4463-b7c1-090e25cb5fa0" />
 
 
 ## 🚀 Overview
